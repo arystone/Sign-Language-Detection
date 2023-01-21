@@ -37,7 +37,7 @@ For the results, I trained the model in 100 epochs using the Adamax optimizer.
 As a result of which it turned out to teach her 95%.
 
 ![Epochs](assets/epoch.png)
-![Hello](assets/hello.png)
+![Hello](assets/Hello.png)
 
 # Critical Review
 
